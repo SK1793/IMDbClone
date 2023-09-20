@@ -1,3 +1,4 @@
 # IMDbClone
 
-[!Snapshot](./images/1.jpg)
+![Snapshot 1](./images/1.jpg)
+
