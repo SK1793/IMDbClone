@@ -38,7 +38,7 @@ Initially, if xammp(or any other tool is installed) find the .sql file in the fo
 Open the downloaded Project (after Extraction) in any IDE i here used VS Code 
 and start with -      
                             
-    php artisan key:generate      
+   ``` php artisan key:generate ```    
 
   ```  php artisan storage:link ```
 
