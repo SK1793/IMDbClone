@@ -31,7 +31,7 @@ Requirements:
     
  1.[PHP](https://www.php.net/downloads)
  
- 2.[Composer](https://getcomposer.org/download))
+ 2.[Composer](https://getcomposer.org/download)
  
  3.[Xammp](https://www.apachefriends.org/download.html) (For Server Side Programming, There are other options too but this is my choice)
 
