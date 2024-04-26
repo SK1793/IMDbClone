@@ -1,6 +1,5 @@
 # IMDbClone
 
-
 ![Snapshot 1](./images/1.jpg)
 
 ![Snapshot 2](./images/2.jpg)
@@ -24,3 +23,32 @@
 ![Snapshot 11](./images/11.jpg)
 
 ![Snapshot 12](./images/12.jpg)
+
+# Installation
+
+Requirements:
+1. [PHP](https://www.php.net/downloads)
+2. [Composer]([https://www.php.net/downloads](https://getcomposer.org/download/))
+3. [Xammp]([https://www.php.net/downloads](https://www.apachefriends.org/download.html)) (For Server Side Programming, There are other options too but this is my choice)
+
+Initially, if xammp(or any other tool is installed) find the .sql file in the folder "database" i.e. 'imdbzclone.sql' and import it via Xammp.
+
+    git clone https://github.com/SK1793/IMDbClone.git
+
+Open the downloaded Project (after Extraction) in any IDE i here used VS Code 
+and start with -      
+                            
+    php artisan key:generate
+
+    php artisan storage:link
+
+    php artisan migrate:fresh --seed
+
+    php artisan serve
+
+(P.S-if above code doesn't start , check above instructions successfully executed,
+Feel Free to suggest with your ideas ☮ )
+
+
+
+    
