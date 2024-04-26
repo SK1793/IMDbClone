@@ -29,9 +29,11 @@
 Requirements:
 
     
- [PHP](https://www.php.net/downloads)
- [Composer](https://getcomposer.org/download))
- [Xammp](https://www.apachefriends.org/download.html) (For Server Side Programming, There are other options too but this is my choice)
+ 1.[PHP](https://www.php.net/downloads)
+ 
+ 2.[Composer](https://getcomposer.org/download))
+ 
+ 3.[Xammp](https://www.apachefriends.org/download.html) (For Server Side Programming, There are other options too but this is my choice)
 
 Initially, if xammp(or any other tool is installed) find the .sql file in the folder 'database' i.e. 'imdbzclone.sql' and import it via Xammp.
 
