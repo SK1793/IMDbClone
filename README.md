@@ -35,7 +35,7 @@ Initially, if xammp(or any other tool is installed) find the .sql file in the fo
 
     git clone https://github.com/SK1793/IMDbClone.git
 
-Open the downloaded Project (after Extraction) in any IDE i here used VS Code 
+Open the downloaded Project (after Extraction) in any IDE , i here used VS Code 
 and start with -      
                             
      php artisan key:generate     
