@@ -38,14 +38,13 @@ Initially, if xammp(or any other tool is installed) find the .sql file in the fo
 Open the downloaded Project (after Extraction) in any IDE i here used VS Code 
 and start with -      
                             
-   ```
-    php artisan key:generate     
+   > php artisan key:generate     
 
-    php artisan storage:link 
+   > php artisan storage:link 
 
-    php artisan migrate:fresh --seed 
+  >  php artisan migrate:fresh --seed 
     
-    php artisan serve ```
+   > php artisan serve 
 
 (P.S-if above code doesn't start, check above instructions are successfully executed,
 Feel Free to suggest with your ideas ☮ )
