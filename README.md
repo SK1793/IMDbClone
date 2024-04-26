@@ -40,17 +40,11 @@ and start with -
                             
     php artisan key:generate      
 
+  ```  php artisan storage:link ```
+
+  ```  php artisan migrate:fresh --seed ```
     
-
-    php artisan storage:link
-
-
-
-    php artisan migrate:fresh --seed
-
-
-
-    php artisan serve
+  ```  php artisan serve ```
 
 (P.S-if above code doesn't start, check above instructions are successfully executed,
 Feel Free to suggest with your ideas ☮ )
