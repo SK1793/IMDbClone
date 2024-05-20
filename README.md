@@ -1,6 +1,6 @@
 # IMDbClone
 
-# Installation
+## Installation
 
 Requirements:
 
