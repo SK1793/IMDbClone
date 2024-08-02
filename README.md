@@ -14,8 +14,12 @@ Requirements:
 Initially, if xammp(or any other tool is installed) find the .sql file in the folder 'database' i.e. 'imdbzclone.sql' and import it via Xammp.
 
     git clone https://github.com/SK1793/IMDbClone.git
-
+<center><h2>Note</h2>
+    <p><b>
+(P.S-I noticied that some files were missing after uploading to Github So Download the Archieve File "ImdbClone" Uploaded. </b> </p>
+</center>
 Open the downloaded Project (after Extraction) in any IDE , i here used VS Code 
+ 
 and start with -      
                             
      php artisan key:generate     
