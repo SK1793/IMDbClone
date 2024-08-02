@@ -16,7 +16,7 @@ Initially, if xammp(or any other tool is installed) find the .sql file in the fo
     git clone https://github.com/SK1793/IMDbClone.git
 <center><label>Note</label>
     <p><b>
-(P.S-I noticied that some files were missing after uploading to Github So Download the Archieve File "ImdbClone" Uploaded. )</b> </p>
+(P.S-I noticied that some files were missing after uploading to Github So Download the Archieve Files "IMDbClone-mySpace.part1.rar" & "IMDbClone-mySpace.part2.rar" Uploaded. )</b> </p>
 </center>
 Open the downloaded Project (after Extraction) in any IDE , i here used VS Code 
  
